@@ -22,7 +22,7 @@
         </dependency>
    </dependencies>
     <build>
-        <finalName>GroceryCalc</finalName>
+        <finalName>grocerycalc</finalName>
         <plugins>
             <plugin>
                 <groupId>org.jacoco</groupId>
@@ -50,7 +50,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>GroceryCalc</mainClass>
+                            <mainClass>org.example.GroceryCalc</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
